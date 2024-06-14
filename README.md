@@ -20,11 +20,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot%202024-06-14%20at%2014-37-34%20Frontend%20Mentor%20Challenge%20Name%20Here.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-grid-layout-CQFeB_awLu](https://www.frontendmentor.io/solutions/responsive-grid-layout-CQFeB_awLu)
 - Live Site URL: [https://tortaruga.github.io/testimonials-grids-project/](https://tortaruga.github.io/testimonials-grids-project/)
 
 ### Built with
